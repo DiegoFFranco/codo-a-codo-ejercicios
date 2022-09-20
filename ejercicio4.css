@@ -11,21 +11,7 @@
     align-items: center;
 }
 
-.volver {
-    background-color: rgb(253, 5, 179);
-    padding: 10px 20px;
-    margin-bottom: 20px;
-    text-decoration: none;
-    font-size: larger;
-    font-weight: bold;
-    color: rgb(255, 255, 255);
 
-}
-
-.volver:hover {
-    background-color: black;
-    
-}
 .cartel-contenedor {
     background-color: rgb(131, 129, 129);
     width: 960px;
